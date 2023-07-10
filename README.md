@@ -1,3 +1,7 @@
+# Alexandra Coffin
+Repo link: https://github.com/accoffin12/python-ds-nb
+Profile Link: https://github.com/accoffin12
+
 # Python Data Structures and Notebooks
 
 Complete the tasks in the Python Notebook in this repository.
